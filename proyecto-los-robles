@@ -1,0 +1,22 @@
+proyecto-los-robles/
+│
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Login.jsx
+│   │   └── Register.jsx
+│   │
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Services.jsx
+│   │   ├── Incidencias.jsx
+│   │   └── Reportes.jsx
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── public/
+│
+├── package.json
+├── README.md
+└── .gitignore
